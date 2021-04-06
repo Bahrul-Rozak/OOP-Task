@@ -12,12 +12,11 @@ public class persegi {
         this.sisi = sisi;
     }
 
-    // method
-    private double hitungKeliling() {
-        return (4 * sisi);
+    public double luas() {
+        return sisi * sisi;
     }
 
-    private double hitungLuas() {
-        return (sisi * sisi);
+    public double keliling() {
+        return 4 * sisi;
     }
 }
