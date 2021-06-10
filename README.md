@@ -7,5 +7,5 @@ Manage your oop task with this repository
 - Visual Studio Code
 
 ### Features
-Hanya tugas tugas Mata kuliah OOP
+Hanya tugas tugas Mata kuliah Teori OOP dan Praktek OOP
 
